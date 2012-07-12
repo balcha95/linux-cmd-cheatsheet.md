@@ -33,9 +33,9 @@
 
 ##File Permissions:
  * chmod octal file – change the permissions of file to octal, which can be found separately for user, group, and world by adding:
- *  * 4 – read (r)
- *  * 2 – write (w)
- *  * 1 – execute (x)
+ * 4 – read (r)
+ * 2 – write (w)
+ * 1 – execute (x)
 
 ###Examples:
  * chmod 777 – read, write, execute for all
